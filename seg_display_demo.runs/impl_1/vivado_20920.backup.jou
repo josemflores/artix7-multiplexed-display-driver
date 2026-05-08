@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Fri May  8 00:20:41 2026
+# Process ID         : 20920
+# Current directory  : C:/Users/Jose Perez Flores/Documents/EE_PROJECTS/seg_display_demo/seg_display_demo.runs/impl_1
+# Command line       : vivado.exe -log seg_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seg_top.tcl -notrace
+# Log file           : C:/Users/Jose Perez Flores/Documents/EE_PROJECTS/seg_display_demo/seg_display_demo.runs/impl_1/seg_top.vdi
+# Journal file       : C:/Users/Jose Perez Flores/Documents/EE_PROJECTS/seg_display_demo/seg_display_demo.runs/impl_1\vivado.jou
+# Running On         : DESKTOP-8C43E04
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 7 7800X3D 8-Core Processor           
+# CPU Frequency      : 4192 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 16
+# Host memory        : 33443 MB
+# Swap memory        : 34359 MB
+# Total Virtual      : 67802 MB
+# Available Virtual  : 46186 MB
+#-----------------------------------------------------------
+source seg_top.tcl -notrace

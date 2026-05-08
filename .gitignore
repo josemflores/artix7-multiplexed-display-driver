@@ -1,0 +1,22 @@
+# Vivado generated outputs
+*.runs/
+*.cache/
+*.hw/
+*.sim/
+*.ip_user_files/
+*.gen/
+.Xil/
+*.jou
+*.log
+*.str
+*.mif
+*.dcp
+*.bit
+*.ltx
+
+# Vivado project file (has absolute paths — use a TCL script instead)
+*.xpr
+
+# OS junk
+.DS_Store
+Thumbs.db
