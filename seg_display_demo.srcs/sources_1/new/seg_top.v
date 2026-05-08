@@ -45,8 +45,11 @@ module seg_top(
     
     reg [15:0] latched_sw;
     reg [16:0] counter;
-    
+
+        //only include this assignment if you plan on using this module standalone.
+        //Otherwise, delete this and include the assignment as part of your ports
     assign digit_enable = 4'b1111;
+        
     assign nibble_1 = latched_sw[3:0];
     assign nibble_2 = latched_sw[7:4];
     assign nibble_3 = latched_sw[11:8];
